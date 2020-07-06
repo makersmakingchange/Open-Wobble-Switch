@@ -3,26 +3,44 @@ The Open Wobble Switch is a cost effective, open source assistive switch similar
 
 ![Open Wobble Switch](Photos/Wobble_Ball.jpg)
 
+The switch requires approximately 0.55 N (55 gf) and about 24 mm of travel to operate, though this will vary a bit depending on the topper attached. The Open Wobble Switch has an interchangeable topper that can be swapped for different shapes and sizes
+
 ## More info at
 - [Makers Making Change Project Page](https://www.makersmakingchange.com/project/open-wobble-switch/)
 - [Makers Making Change Forum Thread](https://forum.makersmakingchange.com/t/open-source-wobble-switch/271)
 
 
-## Documentation
+## Getting Started
+
+### 1. Order the Off-The-Shelf Components
+
+The [Bill of Materials](/Documentation/Open_Wobble_Switch_BOM.xlsx) lists all of the parts and components required to build the Open Wobble Switch. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
+
+
+### 2. Print the 3D Printable components
+
+Print the components for the enclosure and the mouthpiece mount: [3D Printing Files](/Build_Files/3D_Printing/). Total print time for the enclosure components is approximately 4.5 hours and for the mouthpiece mount components is approximately 2.5 hours.  
+
+### 3. Assemble the Switch and Toppers
+
+Reference the [assembly instructions]((/Documentation/Open_Wobble_Switch_Instructions_v1.0.pdf) for the tools and steps required to build each portion.
+
+## Files
+### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
 | Design Specification | WIP     |      |
 | Design Rationale     | WIP     |      |
-| Bill of Materials    | WIP     |      |
-| Assembly Guide       | 1.0    | [Open_Wobble_Switch_Instructions](/Documentation/Open_Wobble_Switch_Instructions_v1.0.pdf)     |
+| Bill of Materials    | 1.0     | [Open_Wobble_Switch_BOM](/Documentation/Open_Wobble_Switch_BOM.xlsx)      |
+| Assembly Guide       | 1.0     | [Open_Wobble_Switch_Instructions](/Documentation/Open_Wobble_Switch_Instructions_v1.0.pdf)     |
 | Maker Checklist      | 1.0     | [Open_Wobble_Switch_Checklist](/Documentation/Open_Wobble_Switch_Checklist_v1.0.pdf)     |
 | Quick Guide           | 1.0     |  [Open_Wobble_Switch_Quick_Guide](/Documentation/Open_Wobble_Switch_Quick_Guide_v1.0.pdf)    |
 | Changelog              | 1.0    |  [Open_Wobble_Switch_Changelog](/Documentation/Open_Wobble_Switch_Changelog_v1.0.pdf)     |
 
-## Design Files
+### Design Files
 [CAD Files](/Design_Files)
 
-## Build Files
+### Build Files
 [3D Printing Files](/Build_Files/3D_Printing)
 
 
@@ -32,7 +50,7 @@ The Open Wobble Switch is a cost effective, open source assistive switch similar
 
 ## About Us
 
-![Makers Making Change Logo](https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg)
+<img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
 Makers Making Change is an initiative of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that helps people with disabilities.
 
