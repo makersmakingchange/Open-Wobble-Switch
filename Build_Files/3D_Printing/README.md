@@ -18,7 +18,7 @@ A single Open Wobble Switch will requires the follwing:
 
 ![Screenshot of print orientation](OWS_3DPrint_Orientation.jpg)
 
-Individual files are stored in the [v1.0](\v1.0) folder if you want to print them separately (e.g. different colors, spare parts).
+Individual files are stored in the [v1.0](/v1.0) folder if you want to print them separately (e.g. different colors, spare parts).
 
 OWS_Set.stl consists of the following files:
  - 1X OWS_Mounting_Adapter.stl
