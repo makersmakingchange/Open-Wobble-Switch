@@ -16,7 +16,7 @@ A single Open Wobble Switch will requires the follwing:
 - 1X [OWS_Set.stl](OWS_Set.stl)
 - 1X ([OWS_Topper_Ball_Set.stl](OWS_Topper_Ball_Set.stl)  and/or [OWS_Topper_Tee_Set.stl](OWS_Topper_Tee_Set.stl) and/or [OWS_Topper_Hand_Set.stl](OWS_Topper_Hand_Set.stl))
 
-Individual files are stored in the [V1.0](\V1.0) folder if you want to print them separately (e.g. different colors, spare parts).
+Individual files are stored in the [v1.0](\v1.0) folder if you want to print them separately (e.g. different colors, spare parts).
 
 OWS_Set.stl consists of the following files:
  - 1X OWS_Mounting_Adapter.stl
