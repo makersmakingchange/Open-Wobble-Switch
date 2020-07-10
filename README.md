@@ -19,7 +19,14 @@ The [Bill of Materials](/Documentation/Open_Wobble_Switch_BOM.xlsx) lists all of
 
 ### 2. Print the 3D Printable components
 
-Print the components for the enclosure and the mouthpiece mount: [3D Printing Files](/Build_Files/3D_Printing/). Total print time for the enclosure components is approximately 4.5 hours and for the mouthpiece mount components is approximately 2.5 hours.  
+Print the components for the switch and one or more toppers.
+
+A single Open Wobble Switch will requires the follwing:
+
+- 1X [OWS_Set.stl](/Build_Files/3D_Printing/OWS_Set.stl)
+- 1X ([OWS_Topper_Ball_Set.stl](/Build_Files/3D_Printing/OWS_Topper_Ball_Set.stl)  and/or [OWS_Topper_Tee_Set.stl](/Build_Files/3D_Printing/OWS_Topper_Tee_Set.stl) and/or [OWS_Topper_Hand_Set.stl](/Build_Files/3D_Printing/OWS_Topper_Hand_Set.stl))
+
+All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder. 
 
 ### 3. Assemble the Switch and Toppers
 
