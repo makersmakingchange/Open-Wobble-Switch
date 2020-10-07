@@ -1,7 +1,7 @@
 # Open-Wobble-Switch
 The Open Wobble Switch is a cost effective, open source assistive switch similar to commercially available Wobble Switches. The switch is activated by applying force to and moving a wand in any direction. The switch can be activated by various body parts including the limbs and head. It provides a momentary closed contact that can be used to activate various assistive devices.
 
-![Open Wobble Switch](Photos/Wobble_Ball.jpg)
+![Open Wobble Switch](Photos/Wobble_Tee.jpg)
 
 The switch requires approximately 0.55 N (55 gf) and about 24 mm of travel to operate, though this will vary a bit depending on the topper attached. The Open Wobble Switch has an interchangeable topper that can be swapped for different shapes and sizes
 
