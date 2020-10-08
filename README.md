@@ -21,11 +21,6 @@ The [Bill of Materials](/Documentation/Open_Wobble_Switch_BOM.xlsx) lists all of
 
 Print the components for the switch and one or more toppers.
 
-A single Open Wobble Switch will requires the following:
-
-- 1X [OWS_Set.stl](/Build_Files/3D_Printing/OWS_Set.stl)
-
-
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
 
 ### 3. Assemble the Switch and Toppers
