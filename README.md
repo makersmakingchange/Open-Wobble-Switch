@@ -25,7 +25,7 @@ All of the files and individual print files can be in the [/Build_Files/3D_Print
 
 ### 3. Assemble the Switch and Toppers
 
-Reference the [assembly instructions]((/Documentation/Open_Wobble_Switch_Instructions_v1.0.pdf) for the tools and steps required to build each portion.
+Reference the [assembly instructions](/Documentation/Open_Wobble_Switch_Instructions_v1.1.pdf) for the tools and steps required to build each portion.
 
 ## Files
 ### Documentation
