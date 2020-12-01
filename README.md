@@ -32,9 +32,9 @@ Reference the [assembly instructions](/Documentation/Open_Wobble_Switch_Instruct
 | Design Specification | WIP     |      |
 | Design Rationale     | 1.1     | [Open_Wobble_Switch_Design_Rationale](/Documentation/Open_Wobble_Switch_Design_Rationale_v1.1.pdf)     |
 | Bill of Materials    | 1.1     | [Open_Wobble_Switch_Design_Rationale](/Documentation/Open_Wobble_Switch_BOM_v1.1.xlsx)     |
-| Assembly Guide       | 1.1    | [Open_Wobble_Switch_Instructions](/Documentation/Open_Wobble_Switch_Instructions_v1.0.pdf)     |
-| Maker Checklist      | 1.1     | [Open_Wobble_Switch_Checklist](/Documentation/Open_Wobble_Switch_Checklist_v1.0.pdf)     |
-| Quick Guide           | 1.1     |  [Open_Wobble_Switch_Quick_Guide](/Documentation/Open_Wobble_Switch_Quick_Guide_v1.0.pdf)    |
+| Assembly Guide       | 1.1    | [Open_Wobble_Switch_Instructions](/Documentation/Open_Wobble_Switch_Instructions_v1.1.pdf)     |
+| Maker Checklist      | 1.1     | [Open_Wobble_Switch_Checklist](/Documentation/Open_Wobble_Switch_Checklist_v1.1.pdf)     |
+| Quick Guide           | 1.1     |  [Open_Wobble_Switch_Quick_Guide](/Documentation/Open_Wobble_Switch_Quick_Guide_v1.1.pdf)    |
 | Changelog              | 1.1    |  [Open_Wobble_Switch_Changelog](/Documentation/Open_Wobble_Switch_Changelog_v1.1.pdf)     |
 
 ### Design Files
