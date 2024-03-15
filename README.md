@@ -5,7 +5,6 @@ The Open Wobble Switch is a cost effective, open source assistive switch similar
 
 ## More info at
 - [Makers Making Change Project Page](https://www.makersmakingchange.com/project/open-wobble-switch/)
-- [Makers Making Change Forum Thread](https://forum.makersmakingchange.com/t/open-source-wobble-switch/271)
 
 
 ## Getting Started
@@ -31,7 +30,7 @@ Reference the [assembly instructions](/Documentation/Open_Wobble_Switch_Instruct
 |----------------------|---------|------|
 | Design Specification | WIP     |      |
 | Design Rationale     | 1.1     | [Open_Wobble_Switch_Design_Rationale](/Documentation/Open_Wobble_Switch_Design_Rationale_v1.1.pdf)     |
-| Bill of Materials    | 1.1     | [Open_Wobble_Switch_Design_Rationale](/Documentation/Open_Wobble_Switch_BOM_v1.1.xlsx)     |
+| Bill of Materials    | 1.1     | [Open_Wobble_Switch_BOM](/Documentation/Open_Wobble_Switch_BOM_v1.1.xlsx)     |
 | Assembly Guide       | 1.1    | [Open_Wobble_Switch_Instructions](/Documentation/Open_Wobble_Switch_Instructions_v1.1.pdf)     |
 | Maker Checklist      | 1.1     | [Open_Wobble_Switch_Checklist](/Documentation/Open_Wobble_Switch_Checklist_v1.1.pdf)     |
 | Quick Guide           | 1.1     |  [Open_Wobble_Switch_Quick_Guide](/Documentation/Open_Wobble_Switch_Quick_Guide_v1.1.pdf)    |
@@ -55,20 +54,24 @@ Designers:
 
 
 
+---
 
-## About Us
-<img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
+## About Makers Making Change
+[<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
-Makers Making Change is an initiative of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that helps people with disabilities.
+Makers Making Change is a program of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that uses technology, knowledge, and passion to empower people with disabilities.
 
-We are committed to creating a network of volunteer makers who support people with disabilities in their communities through 3D printing assistive devices. Check out our library of free, open-source assistive technologies with parts and build instructions.
+Makers Making Change leverages the capacity of community based Makers, Disability Professionals and Volunteers to develop and deliver affordable Open Source Assistive Technologies.
 
- - [www.MakersMakingChange.com](https://www.makersmakingchange.com/)
- - [GitHub](https://github.com/makersmakingchange)
- - [Thingiverse](https://www.thingiverse.com/makersmakingchange/about)
- - Twitter: [@makermakechange](https://twitter.com/makermakechange)
+ - Website: [www.MakersMakingChange.com](https://www.makersmakingchange.com/)
+ - GitHub: [makersmakingchange](https://github.com/makersmakingchange)
+ - X (formally Twitter): [@makermakechange](https://twitter.com/makermakechange)
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
+ - Facebook: [makersmakechange](https://www.facebook.com/makersmakechange)
+ - LinkedIn: [Neil Squire Society](https://www.linkedin.com/company/neil-squire-society/)
+ - Thingiverse: [makersmakingchange](https://www.thingiverse.com/makersmakingchange/about)
+ - Printables: [MakersMakingChange](https://www.printables.com/@MakersMakingChange)
 
-## Contact Us
+### Contact Us
+For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
 
-For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project), [MMC Forum](https://forum.makersmakingchange.com), or contact info@makersmakingchange.com
