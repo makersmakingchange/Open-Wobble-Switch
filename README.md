@@ -22,19 +22,18 @@ All of the files and individual print files can be in the [/Build_Files/3D_Print
 
 ### 3. Assemble the Switch and Toppers
 
-Reference the [assembly instructions](/Documentation/Open_Wobble_Switch_Instructions_v1.1.pdf) for the tools and steps required to build each portion.
+Reference the [assembly instructions](/Documentation/Open_Wobble_Switch_Instructions.pdf) for the tools and steps required to build each portion.
 
 ## Files
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Specification | WIP     |      |
-| Design Rationale     | 1.1     | [Open_Wobble_Switch_Design_Rationale](/Documentation/Open_Wobble_Switch_Design_Rationale_v1.1.pdf)     |
-| Bill of Materials    | 1.1     | [Open_Wobble_Switch_BOM](/Documentation/Open_Wobble_Switch_BOM_v1.1.xlsx)     |
-| Assembly Guide       | 1.1    | [Open_Wobble_Switch_Instructions](/Documentation/Open_Wobble_Switch_Instructions_v1.1.pdf)     |
-| Maker Checklist      | 1.1     | [Open_Wobble_Switch_Checklist](/Documentation/Open_Wobble_Switch_Checklist_v1.1.pdf)     |
-| Quick Guide           | 1.1     |  [Open_Wobble_Switch_Quick_Guide](/Documentation/Open_Wobble_Switch_Quick_Guide_v1.1.pdf)    |
-| Changelog              | 1.1    |  [Open_Wobble_Switch_Changelog](/Documentation/Open_Wobble_Switch_Changelog_v1.1.pdf)     |
+| Design Rationale     | 1.1     | [Open_Wobble_Switch_Design_Rationale](/Documentation/Open_Wobble_Switch_Design_Rationale.pdf)     |
+| Bill of Materials    | 1.1     | [Open_Wobble_Switch_BOM](/Documentation/Open_Wobble_Switch_BOM.xlsx)     |
+| Assembly Guide       | 1.1     | [Open_Wobble_Switch_Instructions](/Documentation/Open_Wobble_Switch_Instructions.pdf)     |
+| Maker Checklist      | 1.1     | [Open_Wobble_Switch_Checklist](/Documentation/Open_Wobble_Switch_Checklist.pdf)     |
+| Quick Guide          | 1.1     |  [Open_Wobble_Switch_Quick_Guide](/Documentation/Open_Wobble_Switch_Quick_Guide.pdf)    |
+| Changelog            | 1.1     |  [Open_Wobble_Switch_Changelog](/Documentation/Open_Wobble_Switch_Changelog.pdf)     |
 
 ### Design Files
 [CAD Files](/Design_Files)
