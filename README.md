@@ -1,10 +1,10 @@
 # Open-Wobble-Switch
-The Open Wobble Switch is a cost effective, open source assistive switch similar to commercially available Wobble Switches. The switch is activated by applying force to and moving a wand in any direction. The switch can be activated by various body parts including the limbs and head. It provides a momentary closed contact that can be used to activate various assistive devices.The switch requires approximately 0.55 N (55 gf) and about 24 mm of travel to operate, though this will vary a bit depending on the topper attached. The Open Wobble Switch has an interchangeable topper that can be swapped for different shapes and sizes
+The Open Wobble Switch is a cost effective, open source assistive switch similar to commercially available Wobble Switches. The switch is activated by applying force to and moving a wand in any direction. The switch can be activated by various body parts including the limbs and head. It provides a momentary closed contact that can be used to activate various assistive devices. The Open Wobble Switch has an interchangeable topper that can be swapped for different shapes and sizes. The switch requires approximately 0.55 N (55 gf) and about 24 mm of travel to operate, though this will vary a bit depending on the topper attached. 
 
 ![Open Wobble Switch](Photos/OWS_Ball_500.jpg)
 
 ## More info at
-- [Makers Making Change Project Page](https://www.makersmakingchange.com/project/open-wobble-switch/)
+- [Makers Making Change Device Page](https://www.makersmakingchange.com/project/open-wobble-switch/)
 
 
 ## Getting Started
@@ -29,11 +29,11 @@ Reference the [assembly instructions](/Documentation/Open_Wobble_Switch_Instruct
 | Document             | Version | Link |
 |----------------------|---------|------|
 | Design Rationale     | 1.1     | [Open_Wobble_Switch_Design_Rationale](/Documentation/Open_Wobble_Switch_Design_Rationale.pdf)     |
-| Bill of Materials    | 1.1     | [Open_Wobble_Switch_BOM](/Documentation/Open_Wobble_Switch_BOM.xlsx)     |
+| Bill of Materials    | 1.1     | [Open_Wobble_Switch_BOM](/Documentation/Open_Wobble_Switch_BOM.csv)     |
 | Assembly Guide       | 1.1     | [Open_Wobble_Switch_Instructions](/Documentation/Open_Wobble_Switch_Instructions.pdf)     |
 | Maker Checklist      | 1.1     | [Open_Wobble_Switch_Checklist](/Documentation/Open_Wobble_Switch_Checklist.pdf)     |
-| Quick Guide          | 1.1     |  [Open_Wobble_Switch_Quick_Guide](/Documentation/Open_Wobble_Switch_Quick_Guide.pdf)    |
-| Changelog            | 1.1     |  [Open_Wobble_Switch_Changelog](/Documentation/Open_Wobble_Switch_Changelog.pdf)     |
+| Quick Guide          | 1.1     | [Open_Wobble_Switch_Quick_Guide](/Documentation/Open_Wobble_Switch_Quick_Guide.pdf)    |
+| Changelog            | 1.1     | [Open_Wobble_Switch_Changelog](/Documentation/Open_Wobble_Switch_Changelog.pdf)     |
 
 ### Design Files
 [CAD Files](/Design_Files)
