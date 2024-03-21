@@ -3,6 +3,8 @@ The Open Wobble Switch is a cost effective, open source assistive switch similar
 
 ![Open Wobble Switch](Photos/OWS_Ball_500.jpg)
 
+Last Updated: 2024-Mar-21
+
 ## More info at
 - [Makers Making Change Device Page](https://www.makersmakingchange.com/project/open-wobble-switch/)
 
