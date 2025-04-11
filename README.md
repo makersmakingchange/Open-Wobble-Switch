@@ -1,4 +1,6 @@
-# Open-Wobble-Switch
+# Open Wobble Switch
+
+## Overview
 The Open Wobble Switch is a cost effective, open source assistive switch similar to commercially available Wobble Switches. The switch is activated by applying force to and moving a wand in any direction. The switch can be activated by various body parts including the limbs and head. It provides a momentary closed contact that can be used to activate various assistive devices. The Open Wobble Switch has an interchangeable topper that can be swapped for different shapes and sizes. The switch requires approximately 0.55 N (55 gf) and about 24 mm of travel to operate, though this will vary a bit depending on the topper attached. 
 
 ![Open Wobble Switch](Photos/OWS_Ball_500.jpg)
@@ -56,7 +58,7 @@ Designers:
 
 
 ---
-
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
@@ -75,4 +77,4 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
-
+<!-- ABOUT MMC END -->
