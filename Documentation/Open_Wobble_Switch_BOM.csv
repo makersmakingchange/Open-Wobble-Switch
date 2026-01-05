@@ -8,19 +8,19 @@ OWS-660-001,1,Required,"Tee Nut, ¼-20 UNC, 5/16"" length",,Amazon,Bolt Dropper,
 OWS-640-002,4,Required,"Screw, Pan Head, M5x0.8, 10 mm length",,Amazon,,,,10, $7.55 ,1, $7.55 , $0.76 , $3.02 ,,https://www.amazon.ca/Prime-Line-9131356-Machine-Phillips-Stainless/dp/B07D5S35GJ
 OWS-640-003,1,Optional,"Hex Bolt, 1/4-20 UNC, 3/4"" Length",,Amazon,Bolt Dropper,ZF-VMHQ-E6IF,B075DJHTNG,100, $22.30 ,1, $22.30 , $0.22 , $0.22 ,,https://www.amazon.ca/Stainless-Steel-100pcs-Bolt-Dropper/dp/B075DJHTNG
 OWS-110-003,1,Required,Zip Tie,,Amazon,,,,100, $8.99 ,1, $8.99 , $0.09 , $0.09 ,,https://www.amazon.ca/TR-Industrial-TR88301-Multi-Purpose-Cable/dp/B01018DB2E
-OWS-111-001,1,Required,Mounting Adapter (3D Printed),,,,,,1, $0.20 ,1, $0.20 , $0.20 , $0.20 ,,https://github.com/makersmakingchange/Open-Wobble-Switch/blob/master/Build_Files/3D_Printing/OWS_Mounting_Adapter.stl
-OWS-110-005,1,Optional,Nameplate (3D Printed),,,,,,1, $0.01 ,1, $0.01 , $0.01 , $0.01 ,,https://github.com/makersmakingchange/Open-Wobble-Switch/blob/master/Build_Files/3D_Printing/OWS_Nameplate.stl
-OWS-110-006,1,Required,Topper Connector (3D Printed),,,,,,1, $0.07 ,1, $0.07 , $0.07 , $0.07 ,,https://github.com/makersmakingchange/Open-Wobble-Switch/blob/master/Build_Files/3D_Printing/OWS_Topper_Connector.stl
-OWS-110-007,1,Required,Topper Transition (3D Printed),,,,,,1,,1,,,,,https://github.com/makersmakingchange/Open-Wobble-Switch/blob/master/Build_Files/3D_Printing/OWS_Topper_Transition.stl
+OWS-111-001,1,Required,Mounting Adapter (3D Printed),,,,,,1, $0.20 ,1, $0.20 , $0.20 , $0.20 ,,https://github.com/makersmakingchange/Open-Wobble-Switch/blob/main/Build_Files/3D_Printing/OWS_Mounting_Adapter.stl
+OWS-110-005,1,Optional,Nameplate (3D Printed),,,,,,1, $0.01 ,1, $0.01 , $0.01 , $0.01 ,,https://github.com/makersmakingchange/Open-Wobble-Switch/blob/main/Build_Files/3D_Printing/OWS_Nameplate.stl
+OWS-110-006,1,Required,Topper Connector (3D Printed),,,,,,1, $0.07 ,1, $0.07 , $0.07 , $0.07 ,,https://github.com/makersmakingchange/Open-Wobble-Switch/blob/main/Build_Files/3D_Printing/OWS_Topper_Connector.stl
+OWS-110-007,1,Required,Topper Transition (3D Printed),,,,,,1,,1,,,,,https://github.com/makersmakingchange/Open-Wobble-Switch/blob/main/Build_Files/3D_Printing/OWS_Topper_Transition.stl
 ,,,,,,,,,,,,,,,,
 OWS-210-000,1,Required,Ball Topper Assembly,,,,,,,,,,,,0.08,
-OWS-200-001,1,Required,Topper Ball (3D Printed),,,,,,1, $0.08 ,1, $0.08 , $0.08 , $0.08 ,,https://github.com/makersmakingchange/Open-Wobble-Switch/blob/master/Build_Files/3D_Printing/OWS_Topper_Ball.stl
+OWS-200-001,1,Required,Topper Ball (3D Printed),,,,,,1, $0.08 ,1, $0.08 , $0.08 , $0.08 ,,https://github.com/makersmakingchange/Open-Wobble-Switch/blob/main/Build_Files/3D_Printing/OWS_Topper_Ball.stl
 ,,,,,,,,,,,,,,,,
 OWS-220-000,1,Optional,Tee Topper Assembly,,,,,,,,,,,,0.08,
-OWS-200-001,1,Optional,Topper Tee (3D Printed),,,,,,1, $0.08 ,1, $0.08 , $0.08 , $0.08 ,,https://github.com/makersmakingchange/Open-Wobble-Switch/blob/master/Build_Files/3D_Printing/OWS_Topper_Tee.stl
+OWS-200-001,1,Optional,Topper Tee (3D Printed),,,,,,1, $0.08 ,1, $0.08 , $0.08 , $0.08 ,,https://github.com/makersmakingchange/Open-Wobble-Switch/blob/main/Build_Files/3D_Printing/OWS_Topper_Tee.stl
 ,,,,,,,,,,,,,,,,
 OWS-240-000,1,Optional,Custom Topper Assembly,,,,,,,,,,,,0.08,
-OWS-240-001,1,Optonal,Custom Topper Base (3D Printed),,,,,,1, $0.08 ,1, $0.08 , $0.08 , $0.08 ,,https://github.com/makersmakingchange/Open-Wobble-Switch/blob/master/Build_Files/3D_Printing/OWS_Topper_Tee.stl
+OWS-240-001,1,Optonal,Custom Topper Base (3D Printed),,,,,,1, $0.08 ,1, $0.08 , $0.08 , $0.08 ,,https://github.com/makersmakingchange/Open-Wobble-Switch/blob/main/Build_Files/3D_Printing/OWS_Topper_Tee.stl
 ,,,,,,,,,,,,,,,,
 OWS-100-001,0,Alternate,"Limit Switch, Momentary Flexible Coil Spring",,Amazon,,,,2, $14.93 ,0, $-   , $7.47 , $-   ,,https://www.amazon.ca/Xenocam-ME-8169-Whisker-Flexible-Momentary/dp/B07SHMQTQN
 OWS-100-001,0,Alternate,"Limit Switch, Momentary Flexible Coil Spring",,Amazon,,,,3, $19.73 ,0, $-   , $6.58 , $-   ,,https://www.amazon.ca/uxcell%C2%AE-ME-8166-Flexible-Spring-Momentary/dp/B07KM22TZ2
